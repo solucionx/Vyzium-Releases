@@ -23,3 +23,8 @@ latest.yml
 Esses arquivos são utilizados pelo instalador e pelo mecanismo de atualização automática do Vyzium.
 
 Desenvolvido por Solucionx.
+
+
+Política de publicação
+
+Toda nova versão é preparada como Draft, com os arquivos anexados. A publicação é manual: Levi revisa a versão e clica em Publish release. A automação não deve publicar releases nem substituir os arquivos de versões já publicadas.
